@@ -26,6 +26,7 @@ services:
             MYSQL_USER: root
             MYSQL_PASSWORD: password
             MYSQL_ROOT_PASSWORD: password 
+            UPLOAD_LIMIT: 3000000000
 volumes:
     data:
 
