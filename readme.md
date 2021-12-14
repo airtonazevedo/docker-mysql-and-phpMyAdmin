@@ -5,5 +5,5 @@
 - `docker-compose up -d` -> run in background
 
 #### Access database
-- Mysql: `localhost:3306` user: **root** password **password**
+- Mysql: `localhost:3306` user: **user** password **password**
 - phpMyadmin: `localhost:3307`

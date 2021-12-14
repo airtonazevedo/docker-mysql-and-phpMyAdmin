@@ -23,7 +23,7 @@ services:
         ports:
             - 3307:80
         environment:
-            MYSQL_USER: root
+            MYSQL_USER: user
             MYSQL_PASSWORD: password
             MYSQL_ROOT_PASSWORD: password 
             UPLOAD_LIMIT: 3000000000
